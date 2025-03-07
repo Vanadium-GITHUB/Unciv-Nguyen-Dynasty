@@ -1,27 +1,27 @@
 [
 	{
-		"name": "Dai Nam",
+		"name": "Viet Nam",
 		"leaderName": "Gia Long",
 		"adjective": ["Vietnamese"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Avoid [Tundra]","[Jungle]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "xyz",
 		"startIntroPart2": "xyz",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Our Realm requires your lands.",
+		"attacked": "How dare you?",
+		"defeated": "You have defeated us today, but the spirit of Viet Nam will live on.",
+		"introduction": "Our presence welcomes a fellow leader. May we find fortune in our future cooperation.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Your proposition?","Our court welcomes you.","You may begin."],
+		"neutralNo": ["No.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateNo": ["No.","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
